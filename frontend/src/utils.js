@@ -1,3 +1,3 @@
-const api_url = `http://localhost:8082`;
+const api_url = `https://mern-notes-app-api-ten.vercel.app`;
 
 export default api_url;
